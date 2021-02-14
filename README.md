@@ -1,5 +1,5 @@
-# news_app
+# Flutter News App
 
-Bir haber uygulaması
+This is a simple news project for Flutter bootcamp.
 
 
